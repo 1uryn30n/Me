@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     createStars(80); 
     
     // chama a função para criar estrelas cadentes
-    createShootingStars(150); // Aqui é a quantidade de estrelas cadente passada como parametro ...
+    createShootingStars(100); // Aqui é a quantidade de estrelas cadente passada como parametro ...
 });
 
 function createStars(count) {
